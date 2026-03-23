@@ -1,0 +1,15 @@
+# Trash Rank
+design: 3
+green-washing: 1
+accident: 2
+killPeople: 2
+demographics: 2
+# Greenwashing Rank
+esg: 1
+finalistEsg: 1
+ecosticker: 1
+ecoevents: 1
+pseudoscience: 1
+
+# Achiv
+achievement: fashizm, community

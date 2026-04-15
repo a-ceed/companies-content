@@ -1,12 +1,12 @@
 # Trash Rank
-design: n/a
-green-washing: n/a
-accident: n/a
-killPeople: n/a
-demographics: n/a
+design: 0
+green-washing: 1
+accident: 2
+killPeople: 2
+demographics: -2
 # Greenwashing Rank
-esg: n/a
-finalistEsg: n/a
-ecosticker: n/a
-ecoevents: n/a
-pseudoscience: n/a
+esg: 1
+finalistEsg: 1
+ecosticker: 0
+ecoevents: 1
+pseudoscience: 1
